@@ -1,0 +1,10 @@
+{
+  "setup": {
+    "prefix": ["line"],
+    "body": [
+      "---------",
+      "---------"
+    ],
+    "description": "My test line"
+  }
+}
